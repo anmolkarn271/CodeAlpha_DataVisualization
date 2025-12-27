@@ -1,4 +1,4 @@
-# CodeAlpha – Task 3: Data Visualization
+# CodeAlpha Data Visualization
 
 ## Internship Domain
 Data Analytics
